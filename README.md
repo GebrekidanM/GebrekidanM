@@ -1,5 +1,5 @@
 
-### Hi there, I'm Gebrekidan! 👋
+### Hi there, I'm Gebrekidan Meuanint! 👋
 
 I'm a passionate Full-Stack MERN Developer based in Ethiopia. I love building beautiful, functional, and user-centric web applications. 
 
